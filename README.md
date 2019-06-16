@@ -1,4 +1,4 @@
-# X-ray images analysis on pneumonia with deep learning using PyTorch
+# X-ray images analysis on pneumonia with deep learning using PyTorch and PySyft
 ============
 
 Analysis of X-ray images of humans on pneumonia using library for privacy preserving Deep Learning PySyft. Project was made using dataset available by this [link](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia). We also used materials from [OpenMined](https://github.com/OpenMined/PySyft) Github repositary. 
